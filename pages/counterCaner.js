@@ -6,7 +6,7 @@ const CounterCaner = () => {
 
   function handleAddCounter() {
     setCount(count + 1);
-    setText("Added 1");
+    setText("Addedd 1");
   }
 
   function handleRemoveCounter() {
